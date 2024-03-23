@@ -7,7 +7,7 @@ This repository contains code for making recommendations using various technique
 1. [Exploratory Data Analysis](#exploratory-data-analysis)
 2. [Rank-Based Recommendations](#rank-based-recommendations)
 3. [User-User Based Collaborative Filtering](#user-user-based-collaborative-filtering)
-4. [Content Based Recommendations (Extra - Not Required)](#content-based-recommendations-extra---not-required)
+4. [Content Based Recommendations](#content-based-recommendations)
 5. [Matrix Factorization](#matrix-factorization)
 
 ## Exploratory Data Analysis <a name="exploratory-data-analysis"></a>
@@ -22,7 +22,7 @@ This repository contains code for making recommendations using various technique
 - Function to provide an ordered list of the most similar users to a given user.
 - Function to recommend articles to each user based on similar users.
 
-## Content Based Recommendations (Extra - Not Required) <a name="content-based-recommendations-extra---not-required"></a>
+## Content Based Recommendations<a name="content-based-recommendations"></a>
 - Implementation of a content-based recommender system.
 - Summary of how the content-based recommender works and possible improvements.
 
