@@ -1,4 +1,4 @@
-# Article Recommenders
+# Article Recommender
 
 ## Introduction
 This repository contains code for making recommendations using various techniques on real data from the IBM Watson Studio platform.
